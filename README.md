@@ -47,7 +47,7 @@ https://github.com/TheFortniteFreak/upddeobf
 
 The latest version of DeObfuscate can be downloaded from the GitHub Releases page:
 
-https://github.com/TheFortniteFreak/DeObfuscate/releases/latest
+https://github.com/TheFortniteFreak/DeObfuscator/releases/latest
 
 Download the latest `.exe` release and run it.
 
