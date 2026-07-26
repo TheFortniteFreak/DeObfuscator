@@ -76,4 +76,5 @@ This section is only required if you want to run or modify the source code.
 ## Install Dependencies
 
 ```bash
-pip install PySide6 PySide6-WebEngine
+pip install -r requirements.txt
+pip install -r crequirements.txt
