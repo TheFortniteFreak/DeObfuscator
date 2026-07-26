@@ -11,7 +11,7 @@ https://github.com/TheFortniteFreak/upddeobf
 
 ---
 
-# Features
+# Features - Latest version
 
 - Lua Deobfuscation
   - Processes obfuscated Lua scripts using Python-based deobfuscation modules.
@@ -63,18 +63,24 @@ No Python installation or additional setup is required when using the release ve
 
 ---
 
-# Developer Installation
+# Developer Installation - Latest version
 
 This section is only required if you want to run or modify the source code.
 
 ## Requirements
 
 - Windows 10/11
-- Python 3.10+
+- Python 3.10+ Recomended: Python 3.14
 - Git installed and available in PATH
 
 ## Install Dependencies
 
 ```bash
-pip install -r requirements.txt
-pip install -r crequirements.txt
+py -m pip install -r requirements.txt
+py -m pip install -r crequirements.txt
+```
+## Run Python file
+
+```bash
+py main.py
+```
