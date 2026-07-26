@@ -122,7 +122,7 @@ try:
         "editor"
     )
 
-    repo = (
+    repo = ( #if you want to make your own modules fork this repo
         "https://github.com/"
         "TheFortniteFreak/"
         "upddeobf.git"
