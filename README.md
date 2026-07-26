@@ -1,8 +1,8 @@
-# DeObfuscate
+# DeObfuscator
 
 A Lua deobfuscation tool built with **Python**, **PySide6**, and **Monaco Editor**.
 
-DeObfuscate provides a desktop interface for analyzing and cleaning obfuscated Lua code. The application uses Python modules for the deobfuscation engine and Monaco Editor as the code editing interface.
+DeObfuscator provides a desktop interface for analyzing and cleaning obfuscated Lua code. The application uses Python modules for the deobfuscation engine and Monaco Editor as the code editing interface.
 
 The editor interface and required processing modules are provided through:
 
@@ -45,13 +45,13 @@ https://github.com/TheFortniteFreak/upddeobf
 
 ## Latest Release
 
-The latest version of DeObfuscate can be downloaded from the GitHub Releases page:
+The latest version of DeObfuscator can be downloaded from the GitHub Releases page:
 
 https://github.com/TheFortniteFreak/DeObfuscator/releases/latest
 
 Download the latest `.exe` release and run it.
 
-The release version includes everything required to run DeObfuscate:
+The release version includes everything required to run DeObfuscator:
 
 - DeObfuscate application
 - PySide6 runtime
