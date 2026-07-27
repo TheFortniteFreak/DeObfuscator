@@ -26,9 +26,13 @@ https://github.com/TheFortniteFreak/upddeobf
   - Pretty Print
     - Formats output code for improved readability.
   - Parse
-    - Enables parser-based processing.
-  - Variable Fix
-    - Attempts to improve variable handling and clean generated structures.
+    - Parses math and strings.
+  - Fix Variable Names
+    - Renames all variables to v(n).
+  - Remove Dead Code
+    - Removes all dead code like `if false`.
+  - Remove Comments
+    - Removes all comments like `--` and `--[[]]`.
 
 - Desktop Application
   - Built with PySide6.
